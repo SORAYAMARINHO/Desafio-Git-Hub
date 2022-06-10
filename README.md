@@ -23,6 +23,8 @@ Meu desafio de projeto sobre Git/ Git Hub contando um pouco sobre a minha histó
 
 - 19/04/2022 - Finalmente me inscrevi para o bootcamp Santander. :bulb: 
 
+- 20/04/2022 -Cadastro na DIO. 💭
+
 - 02 a 06/05/2022  Santander dev week. :boom: 
 
 - 25/05/2022 - A bolsa Becas Santander Tecnologia | Santander Bootcamp 2022 é sua. :champagne: 
