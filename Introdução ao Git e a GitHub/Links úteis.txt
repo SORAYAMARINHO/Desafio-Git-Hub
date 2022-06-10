@@ -1,2 +1,14 @@
-GIT - https://git-scm.com/downloads
-Marktext - https://github.com/marktext/marktext#download-and-installation
+- [Bootcamp Santander]
+(https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-bootcamp-2022)
+
+-[GIT]
+(https://git-scm.com/downloads)
+
+-[GitHub] 
+(https://github.com/SORAYAMARINHO)
+
+[DIO]
+(https://web.dio.me/home)
+
+[Marktext] 
+(https://github.com/marktext/marktext#download-and-installation)
