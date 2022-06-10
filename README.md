@@ -1,5 +1,5 @@
 # Desafio-Git-Hub
-Meu desafio de projeto sobre Git/ Git Hub contando um pouco sobre a minha história na área de informática / Tecnologia. :happy:
+Meu desafio de projeto sobre Git/ Git Hub contando um pouco sobre a minha história na área de informática / Tecnologia e próximos passos neste bootcamp. 
 
 - 2000 a 2002 - 2º Grau técnico em Processamento de Dados. :desktop_computer: 
   (meu 1º contato com a área de tecnologia, HTML, Pascal, C++, Java, Front Page, Dreamweaver, Fireworks, Redes e etc)
